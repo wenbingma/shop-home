@@ -23,5 +23,7 @@
 int main (void)
 {	
 	periph_init();
+	// infinte loop
 	while(1);
+	
 }
