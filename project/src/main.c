@@ -18,6 +18,8 @@
 #include "global_io.h"
 #include "peripherals.h"
 
+
+// main process
 int main (void)
 {	
 	periph_init();
